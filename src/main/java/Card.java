@@ -46,7 +46,7 @@
     return value;
  }
 
- /** Checking if two carsd are the exact same
+ /** Checking if two cards are the exact same
   * @param other (the card to comapre with)
   @return true (if name, suit, and value match)
   */
