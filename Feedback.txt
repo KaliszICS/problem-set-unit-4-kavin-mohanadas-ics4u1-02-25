@@ -1,0 +1,7 @@
+K(30%): 100
+I(30%): 95
+C(10%): 90
+A(30%): 95
+Missing getter javadocs in card
+Equals should override the default equals that takes an Objects
+Should also check for null values
